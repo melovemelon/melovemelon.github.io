@@ -1,7 +1,10 @@
 body {
   margin: 0;
   height: 100vh;
-  background-image: url("minecraftsunset.jpg?v=5");
+  background-image: 
+    linear-gradient(rgba(0,0,0,0.5), rgba(0,0,0,0.5)),
+    <!-- this makes a linear thing over it so that the text pops more -->
+    url("minecraftsunset.jpg?v=5");
   background-size: cover;
   background-position: center;
   background-repeat: no-repeat;
