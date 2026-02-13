@@ -2,8 +2,9 @@ body {
   margin: 0;
   height: 100vh;
   background-image: 
+    /* this makes a linear thing over it so that the text pops more */
+    /* black is (0,0,0) where 50% opacity is in (0.5) and then it means same colour up and down*/
     linear-gradient(rgba(0,0,0,0.5), rgba(0,0,0,0.5)),
-    <!-- this makes a linear thing over it so that the text pops more -->
     url("minecraftsunset.jpg?v=5");
   background-size: cover;
   background-position: center;
