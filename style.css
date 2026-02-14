@@ -15,7 +15,9 @@ body {
   align-items: center;
   flex-direction: column;
   text-align: center;
-  font-family: Arial, sans-serif;
+
+  /* edit here to include the minecraft font where press start 2p is the name of retro gaming font */
+  font-family: 'Press Start 2P', cursive;
 }
 .menu {
   margin-top: 20px;
