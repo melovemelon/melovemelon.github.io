@@ -17,12 +17,23 @@ body {
   text-align: center;
   font-family: Arial, sans-serif;
 }
-
+.menu {
+  margin-top: 20px;
+  display: flex;
+  flex-direction: column;
+  gap: 15px;
+}
 .mcbutton {
-  width: 350px;
-  height: 60px;
-background-image: url("mcbutton.png");
+  width: 420px;
+  height: 65px;
+  background-image: url("mcbutton.png");
+  background-size: 100% 100%;
+  background-repeat: no-repeat;
   background-position: center;
 
-cursor: pointer;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+
+  cursor: pointer;
 }
