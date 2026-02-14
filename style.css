@@ -19,12 +19,14 @@ body {
   /* edit here to include the minecraft font where press start 2p is the name of retro gaming font */
   font-family: 'Press Start 2P', cursive;
 }
+
 .menu {
   margin-top: 20px;
   display: flex;
   flex-direction: column;
   gap: 22px;
 }
+
 .mcbutton {
   width: 520px;
   height: 85px; 
@@ -40,6 +42,7 @@ body {
 
   cursor: pointer;
 }
+
 .mcbutton span {
   font-size: 24px;
   color: #e0e0e0;
@@ -59,7 +62,6 @@ body {
 
 h1 {
   font-size: 48px;
-
   text-shadow:
     3px 0 0 #2b2b2b,
    -3px 0 0 #2b2b2b,
