@@ -24,8 +24,8 @@ body {
   gap: 15px;
 }
 .mcbutton {
-  width: 420px;
-  height: 65px;
+  width: 520px;
+  height: 70px;
   background-image: url("mcbutton.png");
   background-size: 100% 100%;
   background-repeat: no-repeat;
