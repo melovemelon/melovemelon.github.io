@@ -44,16 +44,16 @@ body {
   font-size: 24px;
   color: #e0e0e0;
 
-  /* make it got the black outline */
+  /* make it got the gray outline */
   text-shadow:
-    2px 0 0 black,
-    -2px 0 0 black,
-    0 2px 0 black,
-    0 -2px 0 black,
-    2px 2px 0 black,
-    -2px -2px 0 black,
-    2px -2px 0 black,
-   -2px 2px 0 black;
+    2px 0 0 #2b2b2b,
+    -2px 0 0 #2b2b2b,
+    0 2px 0 #2b2b2b,
+    0 -2px 0 #2b2b2b,
+    2px 2px 0 #2b2b2b,
+    -2px -2px 0 #2b2b2b,
+    2px -2px 0 #2b2b2b,
+   -2px 2px 0 #2b2b2b;
     
 }
 
@@ -61,12 +61,12 @@ h1 {
   font-size: 48px;
 
   text-shadow:
-    3px 0 0 black,
-   -3px 0 0 black,
-    0 3px 0 black,
-    0 -3px 0 black,
-    3px 3px 0 black,
-   -3px -3px 0 black,
-    3px -3px 0 black,
-   -3px 3px 0 black;
+    3px 0 0 #2b2b2b,
+   -3px 0 0 #2b2b2b,
+    0 3px 0 #2b2b2b,
+    0 -3px 0 #2b2b2b,
+    3px 3px 0 #2b2b2b,
+   -3px -3px 0 #2b2b2b,
+    3px -3px 0 #2b2b2b,
+   -3px 3px 0 #2b2b2b;
 }
