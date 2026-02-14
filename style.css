@@ -28,8 +28,8 @@ body {
 }
 
 .mcbutton {
-  width: 750px;
-  height: 65px; 
+  width: 730px;
+  height: 73px; 
   /* made it taller */
   background-image: url("mcbutton.png");
   background-size: 100% 100%;
