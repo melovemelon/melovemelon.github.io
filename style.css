@@ -61,14 +61,14 @@ body {
 }
 
 h1 {
-  font-size: 48px;
+  font-size: 52px;
   text-shadow:
-    3px 0 0 #2b2b2b,
-   -3px 0 0 #2b2b2b,
+    4px 0 0 #2b2b2b,
+   -4px 0 0 #2b2b2b,
     0 3px 0 #2b2b2b,
     0 -3px 0 #2b2b2b,
-    3px 3px 0 #2b2b2b,
-   -3px -3px 0 #2b2b2b,
-    3px -3px 0 #2b2b2b,
-   -3px 3px 0 #2b2b2b;
+    4px 4px 0 #2b2b2b,
+   -4px -4px 0 #2b2b2b,
+    4px -4px 0 #2b2b2b,
+   -4px 4px 0 #2b2b2b;
 }
